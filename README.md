@@ -1,3 +1,11 @@
+# This is my result for the second weeks assignment for the Codaisseur academy.
+
+The goal was to show your skills with OOP and FP and async code.
+
+In the first part we had to make a basic shopping cart using OOP.
+The second part consisted of transforming an array of people objects into an object with age-groups as keys and an array of people objects as values.
+The third part consisted of async code and promise chaining.
+
 # Homework Assignment
 
 This assignment covers the first week of the Intermediate Bootcamp. This repository contains 3 test files, each covering a single task. The order of the tasks does not matter. **You can complete them in any order.** Try to complete as many of them as you can. 
